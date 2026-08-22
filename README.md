@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vipulmishra001/DSAinCPP/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/vipulmishra001/DSAinCPP/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulmishra001/DSAinCPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vipulmishra001/DSAinCPP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vipulmishra001/DSAinCPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipulmishra001/DSAinCPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vipulmishra001/DSAinCPP/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
