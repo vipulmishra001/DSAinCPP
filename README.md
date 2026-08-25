@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/vipulmishra001/DSAinCPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vipulmishra001/DSAinCPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipulmishra001/DSAinCPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vipulmishra001/DSAinCPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/0560-subarray-sum-equals-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
 | ------- |
