@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vipulmishra001/DSAinCPP/tree/master/0141-linked-list-cycle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vipulmishra001/DSAinCPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vipulmishra001/DSAinCPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vipulmishra001/DSAinCPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/vipulmishra001/DSAinCPP/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vipulmishra001/DSAinCPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vipulmishra001/DSAinCPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vipulmishra001/DSAinCPP/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vipulmishra001/DSAinCPP/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
