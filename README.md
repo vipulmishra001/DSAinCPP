@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulmishra001/DSAinCPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/vipulmishra001/DSAinCPP/tree/master/0704-binary-search) |
 | [1872-stone-game-viii](https://github.com/vipulmishra001/DSAinCPP/tree/master/1872-stone-game-viii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vipulmishra001/DSAinCPP/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vipulmishra001/DSAinCPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vipulmishra001/DSAinCPP/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipulmishra001/DSAinCPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
