@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vipulmishra001/DSAinCPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vipulmishra001/DSAinCPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipulmishra001/DSAinCPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vipulmishra001/DSAinCPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vipulmishra001/DSAinCPP/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/0560-subarray-sum-equals-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vipulmishra001/DSAinCPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vipulmishra001/DSAinCPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipulmishra001/DSAinCPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vipulmishra001/DSAinCPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vipulmishra001/DSAinCPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vipulmishra001/DSAinCPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vipulmishra001/DSAinCPP/tree/master/0073-set-matrix-zeroes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vipulmishra001/DSAinCPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vipulmishra001/DSAinCPP/tree/master/0141-linked-list-cycle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vipulmishra001/DSAinCPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
