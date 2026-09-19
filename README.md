@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vipulmishra001/DSAinCPP/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vipulmishra001/DSAinCPP/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/vipulmishra001/DSAinCPP/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/vipulmishra001/DSAinCPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipulmishra001/DSAinCPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vipulmishra001/DSAinCPP/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vipulmishra001/DSAinCPP/tree/master/1927-sum-game) |
@@ -216,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vipulmishra001/DSAinCPP/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/vipulmishra001/DSAinCPP/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
