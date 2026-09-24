@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulmishra001/DSAinCPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vipulmishra001/DSAinCPP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/vipulmishra001/DSAinCPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/vipulmishra001/DSAinCPP/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vipulmishra001/DSAinCPP/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/vipulmishra001/DSAinCPP/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulmishra001/DSAinCPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/vipulmishra001/DSAinCPP/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/vipulmishra001/DSAinCPP/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipulmishra001/DSAinCPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vipulmishra001/DSAinCPP/tree/master/1872-stone-game-viii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vipulmishra001/DSAinCPP/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vipulmishra001/DSAinCPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/vipulmishra001/DSAinCPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vipulmishra001/DSAinCPP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vipulmishra001/DSAinCPP/tree/master/0875-koko-eating-bananas) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/vipulmishra001/DSAinCPP/tree/master/0410-split-array-largest-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vipulmishra001/DSAinCPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vipulmishra001/DSAinCPP/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vipulmishra001/DSAinCPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/vipulmishra001/DSAinCPP/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vipulmishra001/DSAinCPP/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipulmishra001/DSAinCPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipulmishra001/DSAinCPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
